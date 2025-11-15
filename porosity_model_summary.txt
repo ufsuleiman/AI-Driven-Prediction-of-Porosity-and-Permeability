@@ -1,0 +1,15 @@
+Model summary
+=================
+Hidden layers: (64, 32)
+Activation: relu
+Solver: adam
+Learning rate init: 0.001
+Alpha (L2): 0.0001
+Batch size: 32
+Max iter (per .fit call): 1
+Warm start: True
+Random state: 42
+Features (7): ['RHOB', 'NPHI', 'DT', 'GR', 'PEF', 'CALI', 'DRHO']
+
+Notes:
+Baseline porosity MLP (all features)
